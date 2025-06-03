@@ -1,20 +1,21 @@
 # PracticaPython1
-Ruby Olivares Arganzo
 
-contourpy==1.1.1
-cycler==0.12.1
-fonttools==4.57.0
-importlib-resources==6.4.5
-kiwisolver==1.4.7
-matplotlib==3.7.5
-numpy==1.24.4
-packaging==25.0
-pandas==2.0.3
-pillow==10.4.0
-pyparsing==3.1.4
-python-dateutil==2.9.0.post0
-pytz==2025.2
-seaborn==0.13.2
-six==1.17.0
-tzdata==2025.2
-zipp==3.20.2
+**Autor:** [Ruby Olivares Arganzo]
+
+## Descripción
+
+Este proyecto en Python permite:
+
+- Registrar estudiantes y sus calificaciones.
+- Calcular el promedio de cada uno.
+- Identificar al estudiante con el promedio más alto.
+- Guardar los resultados en un archivo de texto.
+
+## Instalación
+
+### 1. Clona el repositorio (si ya está en GitHub)
+
+```bash
+git clone https://github.com/RubyARG/PracticaPython1.git
+cd PracticaPython1
+
