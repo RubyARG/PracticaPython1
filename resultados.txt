@@ -1,0 +1,5 @@
+Ruby Olivares Arganzo: [8.5, 9.9, 10.0, 10.0] - Promedio: 9.60
+Miguel Castillo Romero: [10.0, 10.0, 10.0, 10.0] - Promedio: 10.00
+Eduardo Arellano: [10.0, 10.0, 10.0, 10.0] - Promedio: 10.00
+
+Mejor estudiante: Miguel Castillo Romero con promedio de 10.00
